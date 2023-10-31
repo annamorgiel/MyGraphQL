@@ -3,6 +3,7 @@
 build/
 
 local.properties
+gradle.properties
 
 *.iml
 .idea/
