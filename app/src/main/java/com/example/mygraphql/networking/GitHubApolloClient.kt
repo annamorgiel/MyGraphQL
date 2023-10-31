@@ -9,7 +9,7 @@ internal class GitHubApolloClient @Inject constructor() {
     private val apolloClient = ApolloClient.Builder()
         .addHttpHeader(
             name = HEADER_AUTHORIZATION,
-            value = "$BEARER_TOKEN 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",
+            value = "$BEARER_TOKEN GITHUB_TOKEN",
         )
         .serverUrl(serverUrl = URL)
         .build()
