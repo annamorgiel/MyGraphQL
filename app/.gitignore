@@ -1,1 +1,13 @@
-/build
+
+.gradle/
+build/
+
+local.properties
+
+*.iml
+.idea/
+misc.xml
+gradle.xml
+
+Project_Default.xml
+
