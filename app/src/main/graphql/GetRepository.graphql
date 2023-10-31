@@ -1,0 +1,10 @@
+query GitHubQuery{
+    search(first: 50, type: REPOSITORY, query: "topic:android") {
+      nodes {
+        ... on Repository {
+            name,
+            stargazerCount,
+        }
+      }
+    }
+}
