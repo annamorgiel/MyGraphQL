@@ -54,6 +54,14 @@ To install the app, add
 > [!NOTE]
 GITHUB TOKEN needs to be added in gradle.properties
 
+### Future development
+
+* Add GitHubRepositoryInterface and improve test coverage
+* Extract strings
+* Increase UI Tests coverage
+* Improve UI
+* Offline support
+
 ### Screenshots 
 
 <img width="479" alt="List" src="Screenshot 2023-10-31 at 22.58.58.png">
