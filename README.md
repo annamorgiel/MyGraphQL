@@ -48,15 +48,21 @@ The app can be used by developers to:
 * Track the popularity of their own repositories.
 * Learn about the latest trends in the software development community.
 
-### Screenshots TBA
-
-[Screenshot of the main view](./screenshot.png)
-
 ### Installation
 
 To install the app, add 
 > [!NOTE]
 GITHUB TOKEN needs to be added in gradle.properties
+
+### Screenshots 
+
+<img width="479" alt="List" src="Screenshot 2023-10-31 at 22.58.58.png">
+
+<img width="479" alt="Loading" src="Screenshot 2023-10-31 at 22.54.48.png">
+
+<img width="479" alt="Error" src="Screenshot 2023-10-31 at 22.51.57.png">
+
+Created by @annamorgiel
 
 GITHUB_TOKEN=XXXXXXXXXXXXXXXXXXXX
 
