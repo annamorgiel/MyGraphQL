@@ -3,7 +3,7 @@
 
 This Kotlin app uses the GitHub GraphQL API to fetch and display a list of max 50 repositories with their names and the number of stars. The search query is statically defined in the code.
 
-The app has a loading state, error state, and loaded repositories state. It also includes unit and UI tests. 
+The app has a loading state, error state, and loaded repositories state. It also includes unit and UI tests. As this is a small coding challenge, there are some workaround implementations, for example the delay for showing the loading indicator that would have been approached in a different way for a production code. I would be happy to discuss benefits and disadvantages.
 
 > [!NOTE]
 GITHUB TOKEN needs to be added in gradle.properties
